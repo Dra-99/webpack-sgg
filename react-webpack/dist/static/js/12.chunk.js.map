@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/12.chunk.js","mappings":"oIAOA,UAJa,IACF,sBAAIA,UAAU,cAAY,O","sources":["webpack://react-webpack/./src/components/Test.jsx"],"sourcesContent":["import React from \"react\"\r\nimport \"./test.css\"\r\n\r\nconst Test = () => {\r\n    return <h1 className=\"test_title\">Test</h1>\r\n}\r\n\r\nexport default Test"],"names":["className"],"sourceRoot":""}
