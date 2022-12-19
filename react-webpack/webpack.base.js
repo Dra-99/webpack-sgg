@@ -24,7 +24,7 @@ module.exports = (mode) => {
             },
             pre && {
                 loader: pre,
-                options: pre === "less-loader" ?
+                options: preProcessor === "less-loader" ?
                     {
                         // antd的自定义主题
                         lessOptions: {
